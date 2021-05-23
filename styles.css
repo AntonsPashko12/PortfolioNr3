@@ -1,0 +1,48 @@
+body {
+    width: 100%;
+    /* height: 100%; */
+    background-color: rgb(233, 228, 218) !important;
+}
+
+li {
+    margin: 20px 0 0 0;
+}
+
+.nav-tabs .nav-link{
+    padding: 10px 50px 10px 50px;
+    cursor: pointer;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #fff !important;
+    background-color: #0d6efd !important;
+}
+
+img {
+    width: 10%;
+    margin: 0 40px 0 40px;
+}
+
+#moving-img {
+    display: flex;
+    justify-content: center;
+    margin: 90px 0 0 0;
+}
+
+.freepik {
+    margin: 4% 0 0 0;
+}
+
+#button-hideMe {
+    width: 90px;
+    height: 40px;
+    background-color: rgb(73, 117, 238);
+    margin: 20% 0 0 47%;
+}
+
+#moving-worm-hideMe{
+    margin: 20% 0 0 0;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(14, 78, 138);
+}
